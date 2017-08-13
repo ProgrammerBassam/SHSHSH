@@ -1,0 +1,28 @@
+{
+    "ONLINE_MP3": [
+        {
+            "cid": "1",
+            "category_name": "المنشدين"
+        },
+        {
+            "cid": "2",
+            "category_name": "الأكثر إستماعاً"
+        },
+        {
+            "cid": "6",
+            "category_name": "شيلات مسرعة"
+        },
+        {
+            "cid": "4",
+            "category_name": "شيلات حب"
+        },
+        {
+            "cid": "5",
+            "category_name": "شيلات حماسية طرب"
+        },
+        {
+            "cid": "3",
+            "category_name": "شيلات حزينة"
+        }
+    ]
+}
